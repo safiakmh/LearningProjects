@@ -1,4 +1,4 @@
-# LearningProjects
+# Learning Projects
 This is a repository I use to solidify the new concepts I am learning in my current C++ class at Bowie State. 
 As a part of my growing passion for programming, I am trying to go beyond the classroom and do C++ programs in my own time. 
 The two examples I have up are a Rolling Dice Simulator and a MadLib Generator that implement the concepts I have learned 
